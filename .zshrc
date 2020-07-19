@@ -35,7 +35,7 @@ alias x-dev-='of='
 
 
 ### APT ###
-alias fuck='cat /home/ridho/alias-help/aliasing.txt'
+alias fuck='cat /home/ridho/.zshrc'
 alias fuckup='sudo apt update'
 alias fuckab='sudo apt show'
 alias fuckl='sudo apt list'
@@ -94,4 +94,4 @@ zstyle ':completion:*' use-compctl false
 zstyle ':completion:*' verbose true
 
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
-zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
+zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd' 
