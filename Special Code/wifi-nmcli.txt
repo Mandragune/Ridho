@@ -1,0 +1,25 @@
+To see the connectivity status
+
+$ nmcli general status
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled
+
+To see only wifi status
+
+$ nmcli radio  wifi 
+enabled
+
+To see the active connection
+
+$ nmcli connection show --active
+NAME         UUID                                  TYPE        DEVICE 
+VolCSe  5u6h4521-7k1p-20r3-3g4x-fg19his0j3s8  802-11-wireless  wlp2s0
+
+There are some nice addlitions like, to get the available wifi network informations,
+
+$ nmcli device wifi 
+*  SSID                        MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  VolCSe                      Infra  1     54 Mbit/s  73      ▂▄▆_  WPA2      
+   Sach                        Infra  4     54 Mbit/s  55      ▂▄__  WPA1 WPA2 
+   iKCP                        Infra  5     54 Mbit/s  24      ▂___  WPA2      
+   TP-LINK_POCKET_3            Infra  1     54 Mbit/s  12      ▂___  WPA1 WPA2
