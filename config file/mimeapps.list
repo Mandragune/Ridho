@@ -1,0 +1,19 @@
+[Added Associations]
+text/plain=userapp-xed-B5ZJP0.desktop;org.gnu.emacs.desktop;xed.desktop;org.geany.Geany.desktop;userapp-terminator-R5AJP0.desktop;wine-extension-txt.desktop;userapp-Terminator-H9DKP0.desktop;
+inode/directory=exo-file-manager.desktop
+x-scheme-handler/trash=exo-file-manager.desktop
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+video/x-matroska=vlc.desktop;userapp-mplayer-FFUYL0.desktop;userapp-mpv-0LQ1L0.desktop;userapp-smplayer-VG31L0.desktop;userapp-kodi-M50CM0.desktop;userapp-mpv-WG47L0.desktop;
+application/x-shellscript=xed.desktop;userapp-sh-HP8GO0.desktop;org.gnu.emacs.desktop;
+text/x-copying=org.gnu.emacs.desktop;
+text/x-credits=org.gnu.emacs.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
+application/vnd.debian.binary-package=org.gnome.FileRoller.desktop;
+font/ttf=org.gnome.font-viewer.desktop;
+
+[Default Applications]
+video/x-matroska=vlc.desktop
+text/plain=userapp-xed-B5ZJP0.desktop
+application/x-shellscript=userapp-sh-HP8GO0.desktop
+image/svg+xml=org.inkscape.Inkscape.desktop

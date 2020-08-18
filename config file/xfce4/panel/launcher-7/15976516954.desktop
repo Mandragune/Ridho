@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....Megasync-D
+Comment=
+Exec=thunar /home/ridho/Private/megasync_download_folder
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

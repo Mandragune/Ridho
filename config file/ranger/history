@@ -1,0 +1,17 @@
+rename Desktop
+open_with 3
+find op
+find openttd
+rename Oshiete Galko-chan 720p
+open_with 1
+open_with unzip
+shell 
+open_with vim
+!epp
+open_with xplayer
+delete
+
+h
+help
+search Peter
+bulkrename

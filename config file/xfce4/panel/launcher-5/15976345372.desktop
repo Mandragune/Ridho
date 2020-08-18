@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=CapEsc
+Comment=swich capslock button to escape button. click once for enable and click once again to disable
+TryExec=terminator
+Exec=xmodmap /home/ridho/.config/.capesc
+Icon=terminator
+Type=Application
+Categories=GNOME;GTK;Utility;TerminalEmulator;System;
+StartupNotify=false
+X-Ubuntu-Gettext-Domain=terminator
+X-Ayatana-Desktop-Shortcuts=NewWindow;
+Keywords=terminal;shell;prompt;command;commandline;
+X-XFCE-Source=file:///usr/share/applications/terminator.desktop
+
+Path=
+Terminal=false
+
+[NewWindow Shortcut Group]
+Name=Open a New Window
+Exec=terminator
+TargetEnvironment=Unity

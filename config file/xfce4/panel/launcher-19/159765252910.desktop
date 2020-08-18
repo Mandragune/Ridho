@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....icons
+Comment=
+Exec=pkexec thunar /usr/share/icons %F
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

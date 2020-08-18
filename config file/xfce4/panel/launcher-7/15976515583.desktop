@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....Downloads
+Comment=
+Exec=thunar /home/ridho/Downloads
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

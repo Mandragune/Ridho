@@ -1,0 +1,14 @@
+###### Progress log entry 2020-06-20 23:31:18 ######
+Reinstalling all deployed packages...
+###### Progress log entry 2020-06-20 23:31:24 ######
+###### Progress log entry 2020-06-20 23:40:54 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: jp.sourceforge.openoffice-docj.ChangeLibOIconsToOOo", Context = (com.sun.star.uno.XInterface) @55f69d1b4990 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: jp.sourceforge.openoffice-docj.ChangeLibOIconsToOOo", Context = (com.sun.star.uno.XInterface) @55f69d1b4990 } }, ArgumentPosition = (short) -1 }
+Copying: changeliboiconstoooo.oxt
+###### Progress log entry 2020-06-20 23:41:31 ######
+###### Progress log entry 2020-06-20 23:42:27 ######
+###### Progress log entry 2020-06-20 23:43:15 ######
+Copying: changeliboiconstoooo.oxt
+###### Progress log entry 2020-06-20 23:44:12 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: jp.sourceforge.openoffice-docj.ChangeLibOIconsToOOo", Context = (com.sun.star.uno.XInterface) @564b84b53a70 } }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2020-06-24 16:05:11 ######

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....Wallpaper
+Comment=
+Exec=xfdesktop-settings
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

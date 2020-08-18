@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....Videos
+Comment=
+Exec=thunar /home/ridho/Videos
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

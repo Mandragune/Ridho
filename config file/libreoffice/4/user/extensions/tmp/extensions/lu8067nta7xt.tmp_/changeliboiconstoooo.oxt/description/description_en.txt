@@ -1,0 +1,2 @@
+This Extension changes from LibreOffice's icons theme to OpenOffice.org's that.
+This has only that future. :-)

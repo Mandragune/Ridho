@@ -1,0 +1,66 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+!/home/ridho/.config/kcminputrc
+!/etc/xdg/xdg-plasma/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/ridho/.local/share/config/kcminputrc
+!/usr/share/plasma/config/kcminputrc
+!/home/ridho/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/ridho/.config/kcminputrc
+!/etc/xdg/xdg-plasma/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/ridho/.local/share/config/kcminputrc
+!/usr/share/plasma/config/kcminputrc
+!/home/ridho/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/ridho/.config/ksplashrc
+!/etc/xdg/xdg-plasma/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/ridho/.local/share/config/ksplashrc
+!/usr/share/plasma/config/ksplashrc
+!/home/ridho/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/ridho/.config/ksplashrc
+!/etc/xdg/xdg-plasma/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/ridho/.local/share/config/ksplashrc
+!/usr/share/plasma/config/ksplashrc
+!/home/ridho/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/ridho/.config/kdeglobals
+!/etc/xdg/xdg-plasma/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/ridho/.local/share/config/kdeglobals
+!/usr/share/plasma/config/kdeglobals
+!/home/ridho/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/ridho/.config/kcmfonts
+!/etc/xdg/xdg-plasma/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/ridho/.local/share/config/kcmfonts
+!/usr/share/plasma/config/kcmfonts
+!/home/ridho/.local/share/flatpak/exports/share/config/kcmfonts
+!/var/lib/flatpak/exports/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

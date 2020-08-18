@@ -1,0 +1,8 @@
+{"type":"analytics.appRunning.v1","msg":{"ts":1593767705891,"t_since_start":214005028,"duration":1593767672,"local_time_offset":-28800000}}
+{"type":"analytics.custom.v1","msg":{"ts":1593767727462,"t_since_start":235575814,"name":"unity.sceneLoad","custom_params":{"level_name":"sea","level_num":4,"total_levels":9}}}
+{"type":"analytics.custom.v1","msg":{"ts":1593767759579,"t_since_start":267692770,"name":"unity.sceneLoad","custom_params":{"level_name":"sea","level_num":4,"total_levels":9}}}
+{"type":"analytics.custom.v1","msg":{"ts":1593767786368,"t_since_start":294481770,"name":"unity.sceneLoad","custom_params":{"level_name":"sea","level_num":4,"total_levels":9}}}
+{"type":"analytics.custom.v1","msg":{"ts":1593767821723,"t_since_start":329836706,"name":"unity.sceneLoad","custom_params":{"level_name":"mainmenu","level_num":1,"total_levels":9}}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1593767825891,"t_since_start":334004762,"duration":1593767792,"local_time_offset":-28800000}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1593767836477,"t_since_start":344590724,"duration":311,"local_time_offset":-28800000}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1593767836478,"t_since_start":344592164}}

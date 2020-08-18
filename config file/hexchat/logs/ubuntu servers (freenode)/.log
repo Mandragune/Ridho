@@ -1,0 +1,16 @@
+**** BEGIN LOGGING AT Sun Jul  5 22:32:00 2020
+
+Jul 05 22:32:00 *	Connecting to chat.freenode.net (185.30.166.38:6697)
+Jul 05 22:32:02 *	* Certification info:
+Jul 05 22:32:02 *	  Subject:
+Jul 05 22:32:02 *	    CN=verne.freenode.net
+Jul 05 22:32:02 *	  Issuer:
+Jul 05 22:32:02 *	    C=US
+Jul 05 22:32:02 *	    O=Let's Encrypt
+Jul 05 22:32:02 *	    CN=Let's Encrypt Authority X3
+Jul 05 22:32:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jul 05 22:32:02 *	  Sign algorithm sha256WithRSAEncryption
+Jul 05 22:32:02 *	  Valid since May 11 05:01:59 2020 GM to Aug  9 05:01:59 2020 GM
+Jul 05 22:32:02 *	* Cipher info:
+Jul 05 22:32:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 05 22:32:02 *	Connected. Now logging in.

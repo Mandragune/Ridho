@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=.....Repository
+Comment=
+Exec=pkexec thunar /etc/apt/sources.list.d/ %F
+Icon=
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,17 @@
+**** BEGIN LOGGING AT Sun Jul  5 22:32:03 2020
+
+Jul 05 22:32:03 *	*** Looking up your hostname...
+Jul 05 22:32:03 *	*** Checking Ident
+Jul 05 22:32:03 *	*** No Ident response
+Jul 05 22:32:03 *	*** Couldn't look up your hostname
+Jul 05 22:32:03 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Jul 05 22:32:03 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Jul 05 22:32:03 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Sun Jul  5 22:32:03 2020
+
+**** BEGIN LOGGING AT Sun Jul  5 22:32:03 2020
+
+Jul 05 22:32:03 *	Welcome to the freenode Internet Relay Chat Network ridho
+Jul 05 22:32:03 *	Your host is verne.freenode.net[185.30.166.38/6697], running version ircd-seven-1.1.9
+Jul 05 22:32:03 *	This server was created Mon Mar 16 2020 at 18:29:20 UTC
+Jul 05 22:32:03 *	verne.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
